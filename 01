@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Assignment 1: GitHub practice</title>
+    </head>
+
+    <body>
+        <h1>About me</h1>
+        <div>
+            <h2>
+                <p> My name is Supatsara Rodchay. My student ID is 622115041. My friends call me Mukii or MK. I'm 19 years old.
+                    I'm currently studying in Software Engineering of College of Art, Media and Technology. 
+                    The reason I chose to study here is because to find new computer system and coding. I enjoy playing a game and drawing so much.
+                    In the future I want to be a programmer or game devoloper.
+                </p>
+            </h2>
+            <img src="me.png">
+        </div>
+    </body>
+</html>
